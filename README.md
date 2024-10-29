@@ -1,1 +1,1 @@
-# Movie_Reviews_RNN
+# Next Word Prediction using LSTM
